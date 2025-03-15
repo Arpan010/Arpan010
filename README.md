@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="https://github.com/Arpan010/Arpan010/blob/main/Arpan.svg" alt="Arpan Singh" />
 </h1>
-<h4 align="left">I'm Arpan Singh ✨<br>A passionate aspiring machine learning engineer, driven by curiosity for data and dedicated to developing innovative, data-driven solutions..</h4>
+<h2> Hi, I'm Arpan Singh ✨ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h4 align="left"><br>A passionate aspiring machine learning engineer, driven by curiosity for data and dedicated to developing innovative, data-driven solutions..</h4>
 
 ###
 
@@ -11,7 +12,7 @@
 </div>
 
 ###
-
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2gxbTlsYXVmYWhseGRuMTY4eDJ1N3F2czcyeDIxMjAwYmVtYXd0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ge7l7e5EiHUYI3e71P/giphy.gif"  />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -30,7 +31,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2gxbTlsYXVmYWhseGRuMTY4eDJ1N3F2czcyeDIxMjAwYmVtYXd0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ge7l7e5EiHUYI3e71P/giphy.gif"  />
+
 
 ###
 
@@ -48,11 +49,12 @@
 <img src="https://raw.githubusercontent.com/Arpan010/Arpan010/output/snake.svg" alt="Snake animation" />
 
 ###
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<p align="left">Go-to person for random facts no one asked for ..</p>
+<p align="left">~__ Go-to person for random facts no one asked for.</p>
 
 ###
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FvdHdkODB5bzM0ZW81NzFsazFrMDlhM3BzZHNneWJmbzVhbmJtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="60"> <em><b></b> Take a short tour of my profile ~ <b>See ya Soon !</b> :)</em>
 <div align="left">
   <a href="https://www.linkedin.com/in/arpan-singh-105995318/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
