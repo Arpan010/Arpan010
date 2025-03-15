@@ -39,8 +39,8 @@
   <a href="https://www.instagram.com/arpnn_0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://github.com/Arpan010" target="_blank">
-     <img src="https://github.com/Arpan010/Arpan010/blob/main/gmail.svg" height="35" alt="gmail logo"  />
+  <a href="#" onclick="return false;" target="_blank">
+     <img src="https://github.com/Arpan010/Arpan010/blob/main/gmail.svg" height="35" alt="gmail logo" style="pointer-events: none;"  />
   </a>
 </div>
 
@@ -61,13 +61,13 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FvdHdkODB5bzM0ZW81NzFsazFrMDlhM3BzZHNneWJmbzVhbmJtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="60"> <em><b></b> Take a short tour of my profile ~ <b>See ya Soon !</b> :)</em>
 <div align="left">
   <a href="https://www.linkedin.com/in/arpan-singh-105995318/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="52" height="40" alt="linkedin logo" style="pointer-events: none;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://github.com/Arpan010" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="52" height="40" alt="twitter logo" style="pointer-events: none;"  />
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="52" height="40" alt="twitter logo"   />
   </a>
   <a href="https://leetcode.com/u/arpnn_00/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="52" height="40" alt="leetcode logo" style="pointer-events: none;"  />
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="52" height="40" alt="leetcode logo" />
   </a>
 
   
