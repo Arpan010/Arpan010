@@ -16,4 +16,4 @@ jobs:
       - name: Generate Stats
         uses: anuraghazra/github-readme-stats@master
         with:
-          token: ${{ secrets.Stats_Automation_token }}
+          token: ${{ secrets.STATS_AUTOMATION_TOKEN }}
