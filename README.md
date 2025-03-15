@@ -60,7 +60,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <a href="https://leetcode.com/u/arpnn_00/" target="_blank">
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_Logo_black_with_text.svg](https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png)" width="52" height="40" alt="leetcode logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
