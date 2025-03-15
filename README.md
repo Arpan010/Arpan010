@@ -57,13 +57,13 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FvdHdkODB5bzM0ZW81NzFsazFrMDlhM3BzZHNneWJmbzVhbmJtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="60"> <em><b></b> Take a short tour of my profile ~ <b>See ya Soon !</b> :)</em>
 <div align="left">
   <a href="https://www.linkedin.com/in/arpan-singh-105995318/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="52" height="40" alt="twitter logo"  />
     <a href="https://leetcode.com/u/arpnn_00/" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_Logo_black_with_text.svg](https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png)" width="52" height="40" alt="leetcode logo"  />
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="52" height="40" alt="leetcode logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
