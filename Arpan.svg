@@ -6,26 +6,35 @@
     </linearGradient>
     <style>
       .snowflake {
-        animation: snowfall 5s linear infinite, drift 3s linear infinite alternate;
+        animation: snowfall 4s linear infinite; /* Overall speed */
       }
       @keyframes snowfall {
-        0% { transform: translateY(0px); }
-        100% { transform: translateY(150px); }
-      }
-      @keyframes drift {
-        0% { transform: translateX(-20px); } /* Move left */
-        100% { transform: translateX(20px); } /* Move right */
+        0% {
+          transform: translate(var(--x-start), 0) scale(var(--scale)); /* Start position and scale */
+          opacity: var(--opacity-start);
+        }
+        100% {
+          transform: translate(var(--x-end), 150px) scale(var(--scale)); /* End position and scale */
+          opacity: var(--opacity-end);
+        }
       }
     </style>
   </defs>
 
   <!-- Snowflakes -->
-  <circle cx="50" cy="20" r="5" fill="#d3d3d3" class="snowflake" style="animation-delay: 0s" />
-  <circle cx="150" cy="20" r="5" fill="#d3d3d3" class="snowflake" style="animation-delay: 1s" />
-  <circle cx="250" cy="20" r="5" fill="#d3d3d3" class="snowflake" style="animation-delay: 2s" />
-  <circle cx="350" cy="20" r="5" fill="#d3d3d3" class="snowflake" style="animation-delay: 0.5s" />
-  <circle cx="450" cy="20" r="5" fill="#d3d3d3" class="snowflake" style="animation-delay: 1.5s"/>
+  <circle cx="0" cy="0" r="5" fill="#d3d3d3" class="snowflake" style="--x-start: 20px; --x-end: -10px; --scale: 0.7; --opacity-start: 0.8; --opacity-end: 0.3; animation-delay: 0s" />
+  <circle cx="0" cy="0" r="4" fill="#d3d3d3" class="snowflake" style="--x-start: 70px; --x-end: 50px; --scale: 0.5; --opacity-start: 0.6; --opacity-end: 0; animation-delay: 1s" />
+  <circle cx="0" cy="0" r="6" fill="#d3d3d3" class="snowflake" style="--x-start: 120px; --x-end: 140px; --scale: 0.9; --opacity-start: 0.9; --opacity-end: 0.4; animation-delay: 2s" />
+  <circle cx="0" cy="0" r="5" fill="#d3d3d3" class="snowflake" style="--x-start: 170px; --x-end: 150px; --scale: 0.6;  --opacity-start: 0.7; --opacity-end: 0.2; animation-delay: 0.5s" />
+  <circle cx="0" cy="0" r="4" fill="#d3d3d3" class="snowflake" style="--x-start: 220px; --x-end: 240px; --scale: 0.4;  --opacity-start: 0.5; --opacity-end: 0; animation-delay: 1.5s" />
+  <circle cx="0" cy="0" r="6" fill="#d3d3d3" class="snowflake" style="--x-start: 270px; --x-end: 250px; --scale: 0.8; --opacity-start: 0.8; --opacity-end: 0.3; animation-delay: 0.2s" />
+  <circle cx="0" cy="0" r="5" fill="#d3d3d3" class="snowflake" style="--x-start: 320px; --x-end: 340px; --scale: 0.7; --opacity-start: 0.7; --opacity-end: 0.2; animation-delay: 0.7s" />
+  <circle cx="0" cy="0" r="4" fill="#d3d3d3" class="snowflake" style="--x-start: 370px; --x-end: 350px; --scale: 0.5; --opacity-start: 0.6; --opacity-end: 0.1; animation-delay: 1.2s" />
+  <circle cx="0" cy="0" r="6" fill="#d3d3d3" class="snowflake" style="--x-start: 420px; --x-end: 440px; --scale: 0.9; --opacity-start: 0.9; --opacity-end: 0.4; animation-delay: 1.7s" />
+  <circle cx="0" cy="0" r="5" fill="#d3d3d3" class="snowflake" style="--x-start: 470px; --x-end: 450px; --scale: 0.6; --opacity-start: 0.7; --opacity-end: 0.2; animation-delay: 2.2s" />
+  <circle cx="0" cy="0" r="4" fill="#d3d3d3" class="snowflake" style="--x-start: 520px; --x-end: 540px; --scale: 0.4; --opacity-start: 0.5; --opacity-end: 0; animation-delay: 2.7s" />
+  <circle cx="0" cy="0" r="6" fill="#d3d3d3" class="snowflake" style="--x-start: 570px; --x-end: 550px; --scale: 0.8; --opacity-start: 0.8; --opacity-end: 0.3; animation-delay: 3.2s" />
 
-  <!-- Text with Gradient -->
-  <text x="50" y="100" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#orangish-red-gradient)">Arpan Singh</text>
+  <!-- Centered Text with Gradient -->
+  <text x="50%" y="100" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#orangish-red-gradient)" text-anchor="middle">Arpan Singh</text>
 </svg>
