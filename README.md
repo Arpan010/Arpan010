@@ -39,7 +39,7 @@
   <a href="https://www.instagram.com/arpnn_0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://github.com/Arpan010/Arpan010/blob/main/README.md" target="_blank">
+  <a href="https://github.com/Arpan010" target="_blank">
      <img src="https://github.com/Arpan010/Arpan010/blob/main/gmail.svg" height="35" alt="gmail logo"  />
   </a>
 </div>
@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/arpan-singh-105995318/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/Arpan010" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://leetcode.com/u/arpnn_00/" target="_blank">
