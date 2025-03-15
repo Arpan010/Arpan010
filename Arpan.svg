@@ -6,21 +6,25 @@
     </linearGradient>
     <style>
       .snowflake {
-        animation: snowfall 5s linear infinite;
+        animation: snowfall 5s linear infinite, drift 3s linear infinite alternate;
       }
       @keyframes snowfall {
         0% { transform: translateY(0px); }
         100% { transform: translateY(150px); }
       }
+      @keyframes drift {
+        0% { transform: translateX(-20px); } /* Move left */
+        100% { transform: translateX(20px); } /* Move right */
+      }
     </style>
   </defs>
 
   <!-- Snowflakes -->
-  <circle cx="50" cy="20" r="5" fill="#d3d3d3" class="snowflake" />
-  <circle cx="150" cy="20" r="5" fill="#d3d3d3" class="snowflake" />
-  <circle cx="250" cy="20" r="5" fill="#d3d3d3" class="snowflake" />
-  <circle cx="350" cy="20" r="5" fill="#d3d3d3" class="snowflake" />
-  <circle cx="450" cy="20" r="5" fill="#d3d3d3" class="snowflake" />
+  <circle cx="50" cy="20" r="5" fill="#d3d3d3" class="snowflake" style="animation-delay: 0s" />
+  <circle cx="150" cy="20" r="5" fill="#d3d3d3" class="snowflake" style="animation-delay: 1s" />
+  <circle cx="250" cy="20" r="5" fill="#d3d3d3" class="snowflake" style="animation-delay: 2s" />
+  <circle cx="350" cy="20" r="5" fill="#d3d3d3" class="snowflake" style="animation-delay: 0.5s" />
+  <circle cx="450" cy="20" r="5" fill="#d3d3d3" class="snowflake" style="animation-delay: 1.5s"/>
 
   <!-- Text with Gradient -->
   <text x="50" y="100" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#orangish-red-gradient)">Arpan Singh</text>
