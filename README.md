@@ -53,12 +53,17 @@
 
 
 ###
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="pointer-events: none;">
+<a href="#" onclick="return false;" target="_blank">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="pointer-events: none;">
+</a>
 
 <p align="left">~__ Go-to person for random facts no one asked for.</p>
 
 ###
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FvdHdkODB5bzM0ZW81NzFsazFrMDlhM3BzZHNneWJmbzVhbmJtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="60"> <em><b></b> Take a short tour of my profile ~ <b>See ya Soon !</b> :)</em>
+  <a href="#" onclick="return false;" target="_blank">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FvdHdkODB5bzM0ZW81NzFsazFrMDlhM3BzZHNneWJmbzVhbmJtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="60">
+  </a>
+ <em><b></b> Take a short tour of my profile ~ <b>See ya Soon !</b> :)</em>
 <div align="left">
   <a href="https://www.linkedin.com/in/arpan-singh-105995318/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="52" height="40" alt="linkedin logo"  />
