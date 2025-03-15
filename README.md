@@ -60,10 +60,13 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="52" height="40" alt="twitter logo"  />
-    <a href="https://leetcode.com/u/arpnn_00/" target="_blank">
+  <a href="https://leetcode.com/u/arpnn_00/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="52" height="40" alt="leetcode logo"  />
   </a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="52" height="40" alt="gmail logo"  />
+  <a href="" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="52" height="40" alt="gmail logo"  />
+  </a>
+  
 </div>
 
 ###
