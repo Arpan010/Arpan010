@@ -1,29 +1,25 @@
 name: Generate GitHub Stats
 
 on:
-  schedule: # Runs every 12 hours
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch: # Allows manual trigger
-
+  schedule:
+    - cron: "* */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
   generate-stats:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Generate GitHub Stats
         run: |
-          mkdir -p dist
           curl -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=Arpan010&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&token=${{ secrets.automation_token }}"
 
       - name: Push Stats to output branch
