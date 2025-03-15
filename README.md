@@ -1,4 +1,3 @@
-# Heading Image
 
 <h1 align="center">
    <a href="#" onclick="return false;" target="_blank">
