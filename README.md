@@ -47,8 +47,10 @@
 ###
 
 <br clear="both">
+<a href="https://github.com/Arpan010" target="_blank">
+  <img src="https://raw.githubusercontent.com/Arpan010/Arpan010/output/snake.svg" alt="Snake animation" />
+</a>
 
-<img src="https://raw.githubusercontent.com/Arpan010/Arpan010/output/snake.svg" alt="Snake animation" />
 
 ###
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
