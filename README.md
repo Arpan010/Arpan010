@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">Yup , I know what am i doing ..(Maybe)</p>
+<p align="left">Go-to person for random facts no one asked for ..</p>
 
 ###
 
