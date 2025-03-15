@@ -14,19 +14,19 @@
 ###
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2gxbTlsYXVmYWhseGRuMTY4eDJ1N3F2czcyeDIxMjAwYmVtYXd0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ge7l7e5EiHUYI3e71P/giphy.gif"  />
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" style="pointer-events: none;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" style="pointer-events: none;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="pointer-events: none;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo" style="pointer-events: none;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" style="pointer-events: none;"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" style="pointer-events: none;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" style="pointer-events: none;"  />
 </div>
 
 ###
@@ -61,13 +61,13 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FvdHdkODB5bzM0ZW81NzFsazFrMDlhM3BzZHNneWJmbzVhbmJtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="60"> <em><b></b> Take a short tour of my profile ~ <b>See ya Soon !</b> :)</em>
 <div align="left">
   <a href="https://www.linkedin.com/in/arpan-singh-105995318/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="52" height="40" alt="linkedin logo" style="pointer-events: none;" />
   </a>
   <a href="https://github.com/Arpan010" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="52" height="40" alt="twitter logo"  />
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="52" height="40" alt="twitter logo" style="pointer-events: none;"  />
   </a>
   <a href="https://leetcode.com/u/arpnn_00/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="52" height="40" alt="leetcode logo"  />
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="52" height="40" alt="leetcode logo" style="pointer-events: none;"  />
   </a>
 
   
