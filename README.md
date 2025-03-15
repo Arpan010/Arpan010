@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://github.com/Arpan010/Arpan010/blob/main/Arpan.svg" alt="Arpan Singh" />
+</h1>
 <h4 align="left">I'm Arpan Singh ✨<br>A passionate aspiring machine learning engineer, driven by curiosity for data and dedicated to developing innovative, data-driven solutions..</h4>
 
 ###
