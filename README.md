@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpan010&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arpan010&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpan010&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="pointer-events: none;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arpan010&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="pointer-events: none;" />
 </div>
 
 ###
@@ -48,12 +48,12 @@
 
 <br clear="both">
 <a href="https://github.com/Arpan010" target="_blank">
-  <img src="https://raw.githubusercontent.com/Arpan010/Arpan010/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Arpan010/Arpan010/output/snake.svg" alt="Snake animation" style="pointer-events: none;" />
 </a>
 
 
 ###
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="pointer-events: none;">
 
 <p align="left">~__ Go-to person for random facts no one asked for.</p>
 
