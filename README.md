@@ -1,10 +1,4 @@
 
-<h1 align="center">
-   <a href="#" onclick="return false;" target="_blank">
-   <img src="https://github.com/Arpan010/Arpan010/blob/main/Arpan.svg" alt="Arpan Singh" />
-   </a>
-  
-</h1>
 <h2> Hi, I'm Arpan Singh ✨   <a href="#" onclick="return false;" target="_blank">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
   </a>
