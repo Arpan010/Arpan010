@@ -41,8 +41,9 @@
      <img src="https://github.com/Arpan010/Arpan010/blob/main/gmail.svg" height="35" alt="gmail logo" style="pointer-events: none;"  />
   </a>
 </div>
+<b>Portfolio ~ </b>
 <a href = "https://arpan-singh.netlify.app/">
-  <b>Portfolio ~ </b><p>https://arpan-singh.netlify.app/</p>
+  <p>https://arpan-singh.netlify.app/</p>
 </a>
 
 ###
