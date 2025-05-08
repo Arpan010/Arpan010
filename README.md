@@ -42,7 +42,7 @@
   </a>
 </div>
 <a href = "https://arpan-singh.netlify.app/">
-  <b>https://arpan-singh.netlify.app/</b>
+  <b>Portfolio ~ </b><p>https://arpan-singh.netlify.app/</p>
 </a>
 
 ###
