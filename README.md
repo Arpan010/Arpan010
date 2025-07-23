@@ -65,24 +65,12 @@
 <a href="#" onclick="return false;" target="_blank">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="pointer-events: none;">
 </a>
-<p align="left">~__ Go-to person for random facts no one asked for.</p>
+<p align="left">~__Everyone thinks everyone else's code is shit. They're all correct.</p>
 
 ###
 <a href="#" onclick="return false;" target="_blank">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FvdHdkODB5bzM0ZW81NzFsazFrMDlhM3BzZHNneWJmbzVhbmJtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="60">
-</a><em><b></b> Take a short tour of my profile ~ <b>See ya Around !</b> :)</em>
-<div align="left">
-  <a href="https://www.linkedin.com/in/arpan-singh-105995318/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/Arpan010" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="52" height="40" alt="twitter logo"   />
-  </a>
-  <a href="https://leetcode.com/u/arpnn_00/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="52" height="40" alt="leetcode logo" />
-  </a>
+</a><em><b></b> Feel Free to reach Out . ~ <b>See ya Around !</b> :)</em>
 
-  
-</div>
 
 ###
