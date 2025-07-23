@@ -72,12 +72,13 @@
 <a href="#" onclick="return false;" target="_blank" align ="right">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlsZmNoaXA2cGE5aDBpdGhsaWt2eTBqMWxsdXhjdnZoaXRtN3NucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yCDoXaZyBVilq/giphy.gif" width="50" style="pointer-events: none;">
 </a>
-<p align="left">~__Everyone thinks everyone else's code is shit. They're all correct.</p>
+<h6><p align="left">~__IDK man, code’s been buggy , must be the compiler . ~Diogenese </p></h6>
+
 
 ###
 <a href="#" onclick="return false;" target="_blank">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2I2eXlhaTVlbGVjc3ppaTFuYWg2a2o0bnV6cnZqZTJpcWM1eW5rdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/123t0dxx3bQdCE/giphy.gif" width="60">
-</a><em><b></b> Feel Free to reach Out . ~ <b>See ya Around !</b> :)</em>
+</a><em><b></b> Feel Free to reach Out . ~ <b> !</b> :)</em>
 
 
 ###
