@@ -1,15 +1,16 @@
 
-<h2> Hi, I'm Arpan Singh ✨   <a href="#" onclick="return false;" target="_blank">
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>_Arpan Singh</h2>
   </a>
-<h5 align="left"><br>Aspiring Machine Learning Engineer | Driven by curiosity and a passion for data. Dedicated to building innovative, data-driven solutions using cutting-edge AI and ML techniques. Always learning, experimenting, and striving to transform complex problems into actionable insights. Let's innovate together!</h5>
+<h4 align="left"><i>Aspiring Machine Learning Engineer | Scalable Backend Systems </i></h4>
+<h5 align="left">
+</h5>
 
 ###
 
 
 ###
  <a href="#" onclick="return false;" target="_blank">
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2gxbTlsYXVmYWhseGRuMTY4eDJ1N3F2czcyeDIxMjAwYmVtYXd0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ge7l7e5EiHUYI3e71P/giphy.gif"  />  </a>
+<img align="right" height="200" width ="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM0dzdneWszeDV3YmthZWZvbmVxb3BqNDB4ODEwY2h3cjYxb3VneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif"  />  </a>
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"/>
@@ -62,14 +63,14 @@
 
 
 ###
-<a href="#" onclick="return false;" target="_blank">
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="pointer-events: none;">
+<a href="#" onclick="return false;" target="_blank" align ="right">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlsZmNoaXA2cGE5aDBpdGhsaWt2eTBqMWxsdXhjdnZoaXRtN3NucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yCDoXaZyBVilq/giphy.gif" width="50" style="pointer-events: none;">
 </a>
 <p align="left">~__Everyone thinks everyone else's code is shit. They're all correct.</p>
 
 ###
 <a href="#" onclick="return false;" target="_blank">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FvdHdkODB5bzM0ZW81NzFsazFrMDlhM3BzZHNneWJmbzVhbmJtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="60">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2I2eXlhaTVlbGVjc3ppaTFuYWg2a2o0bnV6cnZqZTJpcWM1eW5rdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/123t0dxx3bQdCE/giphy.gif" width="60">
 </a><em><b></b> Feel Free to reach Out . ~ <b>See ya Around !</b> :)</em>
 
 
