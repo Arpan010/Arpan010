@@ -70,9 +70,9 @@
 
 ###
 <a href="#" onclick="return false;" target="_blank" align ="right">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlsZmNoaXA2cGE5aDBpdGhsaWt2eTBqMWxsdXhjdnZoaXRtN3NucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yCDoXaZyBVilq/giphy.gif" width="50" style="pointer-events: none;">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVpc3VsbjZsY2Z2aWt4aDNvaXdwZTk3dTFlaGVycHUyNzhjMm9pcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DdScANHfXnsM0uoiwV/giphy.gif" width="50" style="pointer-events: none;">
 </a>
-<h6><p align="left">~__IDK man, code’s been buggy , must be the compiler . ~Diogenese </p></h6>
+<h6><p align="left">~__I seek honest documented code . ~Diogenese </p></h6>
 
 
 ###
