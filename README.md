@@ -13,30 +13,66 @@
 <img align="right" height="200" width ="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM0dzdneWszeDV3YmthZWZvbmVxb3BqNDB4ODEwY2h3cjYxb3VneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif"  />  </a>
 
 <div align="left">
+<a href="https://isocpp.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"/>
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" />
-    <img width="12" />
+</a>
+<img width="12" />
+
+<a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"/>
+</a>
+<img width="12" />
+
+<a href="https://www.oracle.com/java/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"/>
-    <img width="12" />
+</a>
+<img width="12" />
+
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"/>
-    <img width="12" />
+</a>
+<img width="12" />
+
+<a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"/>
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=pytorch" height="35" alt="pytorch logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="35" alt="tensorflow logo"  />
-    <img width="12" />
+</a>
+<img width="12" />
+
+<a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"/>
+</a>
+<img width="12" />
+
+<a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"/>
+</a>
+<img width="12" />
+
+<a href="https://redis.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"/>
+</a>
+<img width="12" />
+
+<a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"/>
+</a>
+<img width="12" />
+
+<a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"/>
+</a>
+<img width="12" />
+
+<a href="https://pytorch.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" height="35" alt="pytorch logo"/>
+</a>
+<img width="12" />
+
+<a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="35" alt="tensorflow logo"/>
+</a>
+<img width="12" />
+
 <a href="https://fastapi.tiangolo.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="FastAPI logo">
 </a>
