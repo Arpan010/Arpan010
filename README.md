@@ -37,8 +37,10 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=tensorflow" height="35" alt="tensorflow logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="fastapi logo"  />
-    <img width="12" />
+<a href="https://fastapi.tiangolo.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="FastAPI logo">
+</a>
+
     
 
 </div>
