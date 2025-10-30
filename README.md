@@ -53,9 +53,7 @@
   <a href="https://www.instagram.com/arpnn_0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="#" onclick="return false;" target="_blank">
-     <img src="https://github.com/Arpan010/Arpan010/blob/main/gmail.svg" height="35" alt="gmail logo" style="pointer-events: none;"  />
-  </a>
+
 </div>
 <br>
 <b>Portfolio ~ </b>
