@@ -66,9 +66,6 @@
 ###
 
 <br clear="both">
-<a href="https://github.com/Arpan010" target="_blank">
-  <img src="https://raw.githubusercontent.com/Arpan010/Arpan010/output/snake.svg" alt="Snake animation" style="pointer-events: none;" />
-</a>
 
 
 ###
