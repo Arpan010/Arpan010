@@ -13,7 +13,8 @@
 <img align="right" height="200" width ="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM0dzdneWszeDV3YmthZWZvbmVxb3BqNDB4ODEwY2h3cjYxb3VneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif"  />  </a>
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"/>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"/>
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" />
     <img width="12" />
@@ -39,6 +40,7 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="tensorflow logo"  />
     <img width="12" />
+  </a>
     
 
 </div>
