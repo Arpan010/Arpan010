@@ -68,11 +68,6 @@
 
 
 ###
-<a href="#" onclick="return false;" target="_blank" align ="right">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVpc3VsbjZsY2Z2aWt4aDNvaXdwZTk3dTFlaGVycHUyNzhjMm9pcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DdScANHfXnsM0uoiwV/giphy.gif" width="50" style="pointer-events: none;">
-</a>
-<h6><p align="left">~__ . ~ </p></h6>
-
 
 ###
 <a href="#" onclick="return false;" target="_blank">
