@@ -1,7 +1,7 @@
 
 <h2>_Arpan Singh</h2>
   </a>
-<h4 align="left"><i>Aspiring Machine Learning Engineer | Scalable Backend Systems </i></h4>
+<h4 align="left"><i>Machine Learning | Backend Systems </i></h4>
 <h5 align="left">
 </h5>
 
